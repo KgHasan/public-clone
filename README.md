@@ -77,7 +77,7 @@
 
    ## ⚙️  Termux-Setup-Command
 
-✓• git clone https://github.com:KgHasan/public-clone.git
+✓• git clone https://github.com/KgHasan/public-clone.git
 
 ✓• cd public-clone
 
