@@ -77,13 +77,13 @@
 
    ## ⚙️  Termux-Setup-Command
 
-✓• git clone https://github.com/KgHasan/public-clone.git
+   ## • git clone https://github.com/KgHasan/public-clone.git
 
-✓• cd public-clone
+   ## • cd public-clone
 
-✓• ls
+   ## • ls
 
-✓• Python ps.py
+   ## • Python ps.py
 
 ## Thanks Use My Termux Setup Command Bro 🥱🤙
                    
