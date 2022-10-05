@@ -75,7 +75,7 @@
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/copy.link.erorr404)
 [![Github](https://img.shields.io/badge/Github-KgHasangreen?style=for-the-badge&logo=github)](https://github.com/KgHasan)
 
-   ## ⚙️  Termux-Setup-Command
+   ## ⚙️  Public Crack Command
 
    ## • git clone https://github.com/KgHasan/public-clone.git
 
@@ -85,7 +85,7 @@
 
    ## • Python ps.py
 
-## Thanks Use My Termux Setup Command Bro 🥱🤙
+## Thanks Use My Termux Public-Crack Command Bro 🥱🤙
                    
                    ## Love You Vai Brother🤙😭
  
